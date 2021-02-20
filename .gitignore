@@ -1,0 +1,6 @@
+*.csv
+bin
+lib
+lib64
+include
+share
